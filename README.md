@@ -20,8 +20,3 @@ in the year 2020, the In Store sales made the highest contribution that year wit
 In February, In Store channels had the highest revenue as well as the highest sales volume, which gives us an insight of customers shopping preferences and Wholesale in general needs more attention.
 
 In United States, the company has mad 18 millions dollars over the time period.
-# Recommendations 
-
-Increase the company's online visibility and reach by implementing targeted digital marketing campaigns, utilizing social media platforms, and offering online exclusive promotions or discounts.
-
-Focus on states with low average household income and offer products or services that are more affordable and better suited to this demographic.
